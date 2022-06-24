@@ -1,4 +1,6 @@
-# Opening-and-Closing
+### EX NO: 11
+### DATE:
+# <p align="center">OPENING AND CLOSING</p>
 
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
@@ -23,7 +25,10 @@ Apply erosion and dilation using cv2.MORPH_OPEN and cv2.MORPH_CLOSE.
 Plot the images using plt.imshow.
  
 ## Program:
-
+```
+### Developed By   : N Sandhya Charu
+### Register Number: 212220230041
+```
 ``` Python
 # Import the necessary packages
 
